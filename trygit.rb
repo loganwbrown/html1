@@ -1,0 +1,6 @@
+name = "Logan"
+puts "My name is #{name}."
+age = "26"
+puts "I am #{age} years old."
+state = "Alabama"
+puts "I am from #{state}."
